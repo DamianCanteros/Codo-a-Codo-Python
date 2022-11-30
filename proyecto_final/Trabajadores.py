@@ -1,10 +1,6 @@
 
 #------------------------------------------------------ SUB MENU 1 -----------------------------------------------------
 
-#Crea un  diccionario trabajador donde almacenar a los trabajadores-----------------------------------------------------
-trabajador = {}
-
-trabajador["Nombre"] = [30, 123, "Profesion", True ]
 #------------------------------------------------------- opcion 1 ------------------------------------------------------
 #Crea un trabajador y lo guarda en la lista trabajadores----------------------------------------------------------------
 def agregar (trabajador):
